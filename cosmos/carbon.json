@@ -99,9 +99,9 @@
       "coinDecimals": 8,
       "coinGeckoId": "switcheo",
       "gasPriceStep": {
-        "low": 33.3333333333334,
-        "average": 33.3333333333334,
-        "high": 33.3333333333334
+        "low": 100,
+        "average": 100,
+        "high": 100
       }
     },
     {
@@ -229,9 +229,9 @@
       "coinDecimals": 6,
       "coinGeckoId": "kujira",
       "gasPriceStep": {
-        "low":  0.005,
+        "low": 0.005,
         "average": 0.005,
-        "high":  0.005
+        "high": 0.005
       }
     },
     {
